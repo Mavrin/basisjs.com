@@ -1,20 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#4183C4" d="M276.5,413.469L298,402.5l21.5,10.969L298,424.438L276.5,413.469z"
-	/>
-<g>
-	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#23AEBE" points="298,427.094 283.692,419.794 278.957,422.219 
-			298,431.969 317.043,422.219 312.308,419.794 		"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="43"
+   height="37"
+   viewBox="0 0 42.999998 36.999999"
+   enable-background="new 0 0 595.28 841.89"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logo_hover.svg"><metadata
+   id="metadata3234"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3232" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview3230"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.28032165"
+   inkscape:cx="21.14"
+   inkscape:cy="18.555"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   clip-rule="evenodd"
+   d="M -9.4696599e-6,10.969 21.499991,0 l 21.5,10.969 -21.5,10.969 L -9.4696599e-6,10.969 z"
+   id="path3216"
+   inkscape:connector-curvature="0"
+   style="fill:#4183c4;fill-rule:evenodd" />
+<g
+   id="g3218"
+   transform="translate(-276.50001,-402.5)">
+	<g
+   id="g3220">
+		<polygon
+   clip-rule="evenodd"
+   points="298,431.969 317.043,422.219 312.308,419.794 298,427.094 283.692,419.794 278.957,422.219 "
+   id="polygon3222"
+   style="fill:#23aebe;fill-rule:evenodd" />
 	</g>
 </g>
-<g>
-	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#5BC1A6" points="298,434.625 286.104,428.556 281.414,430.969 298,439.5 
-			314.586,430.969 309.896,428.556 		"/>
+<g
+   id="g3224"
+   transform="translate(-276.50001,-402.5)">
+	<g
+   id="g3226">
+		<polygon
+   clip-rule="evenodd"
+   points="298,439.5 314.586,430.969 309.896,428.556 298,434.625 286.104,428.556 281.414,430.969 "
+   id="polygon3228"
+   style="fill:#5bc1a6;fill-rule:evenodd" />
 	</g>
 </g>
 </svg>
