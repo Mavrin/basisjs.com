@@ -1,3 +1,8 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,800);
+body {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
 .bs-docs-nav {
     margin-bottom: 0;
 }
